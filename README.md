@@ -3,10 +3,9 @@
 
 In this project we will create  machine learning model to predict House price , and create its interface using Streamlit. After creating the Streamlit app, we shall use docker to deploy it  .
 
-
-
-![image](./image/image.png)
-
+<p align="center">
+  <img src="./image/image.png" />
+</p>
 
 ##  Prerequisites
 
@@ -29,8 +28,9 @@ first go and run House_predict_.ipynb to create model.joblib
 #### 
 
  - [localhost:8501](http://localhost:8501/)
- ![image](./image/image.png)
-
+<p align="center">
+  <img src="./image/image.png" />
+</p>
 ## Built With
 
 - Docker
